@@ -1,4 +1,4 @@
-**Voting Application:**<br>
+**VOTING APPLICATION:**<br>
 voting application is a digital platform that enables users to participate in elections, polls, or surveys securely and efficiently.
 It can be used for various purposes, such as political elections, organizational decision-making, or community voting.  
 <br>
