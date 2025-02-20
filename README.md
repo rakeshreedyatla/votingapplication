@@ -16,9 +16,9 @@ A voting application is a digital platform designed to facilitate the process of
 ==> Transparency – Offers audit trails and verification options.<br>
 ==> Cost-Effective – Reduces expenses related to paper ballots and manual counting.<br>
 ### **Technologies Used in a Voting Application:**<br>
-==>Frontend : Html,CSS(for user interface).<br>
-==>Backend : Java,springboot(for vote processing).<br>
-==>Database : MySQL(for storing voter data).<br>
+==>Frontend : Html,CSS (for user interface).<br>
+==>Backend : Java,springboot (for vote processing).<br>
+==>Database : MySQL (for storing voter data).<br>
   ###  **Use Cases:** <br>
 ==> Government elections.<br>
 ==> School elections.<br>
