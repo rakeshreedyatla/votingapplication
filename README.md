@@ -5,7 +5,6 @@ A voting application is a digital platform designed to facilitate the process of
 ==> User Authentication: Ensures only eligible voters can participate.<br>
 ==> Secure Voting System: Uses encryption and tamper-proof mechanisms to protect votes.<br>
 ==> Real-time Results: Provides instant vote counting and result visualization.<br>
-==> Multiple Voting Methods: Supports single-choice, multiple-choice, and ranked voting.<br>
 ==> Anonymous Voting: Ensures voter privacy and confidentiality.<br>
 ==> Admin Dashboard: Allows organizers to create and manage elections.<br>
 ==> Multi-Platform Support: Accessible via web, mobile, or dedicated apps.<br>
