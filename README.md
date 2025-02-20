@@ -9,7 +9,6 @@ It can be used for various purposes, such as political elections, organizational
 - **Anonymous Voting:** Ensures voter privacy and confidentiality.<br>    
 - **Admin Dashboard:** Allows organizers to create and manage elections.<br>    
 - **Multi-Platform Support:** Accessible via web, mobile, or dedicated apps.<br>    
-<br>
 ### **Use Cases:**  <br>  
 - Government elections <br> 
 - Corporate decision-making <br> 
