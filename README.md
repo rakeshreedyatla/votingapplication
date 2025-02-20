@@ -10,12 +10,12 @@ It can be used for various purposes, such as political elections, organizational
 ==> Anonymous Voting: Ensures voter privacy and confidentiality.<br>    
 ==> Admin Dashboard: Allows organizers to create and manage elections.<br>    
 ==> Multi-Platform Support: Accessible via web, mobile, or dedicated apps.<br>
-### **Advantages of a Voting Application** <br>
-==> Efficiency – Speeds up voting and result calculation.<br> 
-==> Security – Prevents fraud and unauthorized access.<br> 
-==> Accessibility – Allows remote voting from anywhere.<br> 
-==> Transparency – Offers audit trails and verification options.<br> 
-==> Cost-Effective – Reduces expenses related to paper ballots and manual counting.<br> 
+### **Advantages of a Voting Application : ** <br>
+==> Efficiency – Speeds up voting and result calculation.<br>  
+==> Security – Prevents fraud and unauthorized access.<br>  
+==> Accessibility – Allows remote voting from anywhere.<br>  
+==> Transparency – Offers audit trails and verification options.<br>   
+==> Cost-Effective – Reduces expenses related to paper ballots and manual counting.<br>  
   ###  **Use Cases:** <br>
 ==> Government elections <br> 
 ==> Corporate decision-making <br> 
