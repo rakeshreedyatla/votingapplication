@@ -1,7 +1,7 @@
 **VOTING APPLICATION:**<br>
 A voting application is a digital platform designed to facilitate the process of casting and counting votes securely and efficiently. These applications are used in various domains, including government elections, corporate decision-making, educational institutions, and community-based voting. They provide a user-friendly interface for voters while ensuring security, transparency, and integrity in the voting process.
 <br>
-### **Key Features:**  <br>
+### <u> **Key Features:**  <br></u>
 ==> User Authentication: Ensures only eligible voters can participate.<br>
 ==> Secure Voting System: Uses encryption and tamper-proof mechanisms to protect votes.<br>
 ==> Real-time Results: Provides instant vote counting and result visualization.<br>
